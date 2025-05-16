@@ -107,4 +107,10 @@ This project is licensed under the [MIT License](https://github.com/DouglasFresh
 
 Use this tool to responsibly test, simulate, and explore — and as always:
 
-"Stay Fresh, Keep Learning!"
+<h2 align="center"> 
+  <a href="https://www.buymeacoffee.com/dfreshZ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+<p align="center">
+  <a href="https://www.youtube.com/@DouglasHabian-tq5ck">Stay Fresh</a>, 
+  <a href="https://github.com/DouglasFreshHabian/FreshPdfLibrary">Keep Learning!</a>
+</p>
