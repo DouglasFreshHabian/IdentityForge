@@ -101,7 +101,7 @@ To Run Scripts:
 ```
 
 ## 📄 License
-This project is licensed under the MIT License
+This project is licensed under the [MIT License](https://github.com/DouglasFreshHabian/IdentityForge/blob/main/LICENSE)
 
 ## 🎯 Final Thoughts
 
