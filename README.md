@@ -83,8 +83,6 @@ Always use responsibly and within the law.
 
 - Bash (tested on GNU Bash 5.x)
 - `rig` (available via `apt install rig`)
-- `aplay` (for sound-based scripts, e.g. `birthdayGen.sh`)
-- `dot.wav` and `dash.wav` in script directory (optional for birthday sounds)
 
 ---
 
