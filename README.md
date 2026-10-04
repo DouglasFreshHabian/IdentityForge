@@ -114,3 +114,8 @@ Use this tool to responsibly test, simulate, and explore — and as always:
   <a href="https://www.youtube.com/@DouglasHabian-tq5ck">Stay Fresh</a>, 
   <a href="https://github.com/DouglasFreshHabian/FreshPdfLibrary">Keep Learning!</a>
 </p>
+
+<!--
+Add Example Spreadsheet containing 3 sample profiles...
+https://docs.google.com/spreadsheets/d/1jvR93FUJ14Sa1jQx16wWeJUynOn8ZmuI-nxZLw3ESgE/edit?usp=sharing
+-->
